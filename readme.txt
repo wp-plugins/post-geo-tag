@@ -9,6 +9,12 @@ Post Geo Tag allows a series of co-ordinates and place names to be attached to b
 
 This data can then be exposed as a KML layer people can access via a URL from your blog, or the blog owner can set up a page on the site and display the geo tags on a google map.
 
+This project was developed as part of the University of Oxford's World War I Centenary : Continuations and Beginnings Project
+
+http://ww1centenary.oucs.ox.ac.uk/
+
+@WW1c on twitter 
+
 == Description ==
 
 Post Geo Tag allows a series of co-ordinates and place names to be attached to blog posts.
